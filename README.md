@@ -3,11 +3,11 @@
 This is an RTOS based Autonomous car project that uses car five micro controller units LPC1758 that communicate with each other using CANBus Communication protocol. 
 The tasks of the individual microcontrollers are listed below:
 
-Master Controller - Contains the algorithm for making decisions of the car navigation based on the input sensor values.
-Distance Sensors Controller - Interfaces with Lidar and Ultrasound sensors to obtain obstacle proximity values
-Geo Controller - Interfaces the GPS and the compass module to obtain the current position and the heading angle 
-Communication/Android Controller - Incorporates the Bluetooth Module for communication with the Android Application
-Motor and I/O controller - Interfaces the motors and LCD dispay module for 
+*Master Controller - Contains the algorithm for making decisions of the car navigation based on the input sensor values.
+*Distance Sensors Controller - Interfaces with Lidar and Ultrasound sensors to obtain obstacle proximity values
+*Geo Controller - Interfaces the GPS and the compass module to obtain the current position and the heading angle 
+*Communication/Android Controller - Incorporates the Bluetooth Module for communication with the Android Application
+*Motor and I/O controller - Interfaces the motors and LCD dispay module for 
 
 The importanat features of the car include the following:
 Android App and LCD interface for the car
