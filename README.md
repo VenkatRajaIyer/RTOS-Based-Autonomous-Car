@@ -1,5 +1,7 @@
 # RTOS-Based-Autonomous-Car
 
+![550px-cmpe243_f17_nano_car](https://user-images.githubusercontent.com/26000626/39408327-83c75e6a-4ba2-11e8-81ce-fdd9a20f7f58.jpg)
+
 This is an RTOS based Autonomous car project that uses car five micro controller units LPC1758 that communicate with each other using CANBus Communication protocol. 
 The tasks of the individual microcontrollers are listed below:
 
